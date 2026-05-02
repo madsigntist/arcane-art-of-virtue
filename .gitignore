@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Except the reader files
+!index.html
+!app.css
+!app.js
+!.gitignore
+
+# Allow the chapters directory tree
+!chapters/
+!chapters/rewrites/
+!chapters/rewrites/*.md
