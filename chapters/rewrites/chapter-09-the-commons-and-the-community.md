@@ -28,7 +28,7 @@ The real strength of a Community lies in its Weak Ties. The acquaintance, the ne
 
 We love to blame character. We see a "bad actor" and we look for a moral flaw. But if you put a healthy fish in a toxic lake, the fish gets sick. That’s not a character defect; it’s a systemic outcome.
 
-Most people follow the path of least resistance. If a system rewards greed, people will be greedy. If a hierarchy protects a boss from accountability, that boss will eventually become a tyrant. I’ve learned to stop asking "Who is to blame?" and start asking "What does the structure reward?" If you want better behavior, you don't lecture the fish. You fix the water. You change the incentives. You move the power from the office at the top to the floor where the work actually happens.
+Most people follow the path of least resistance. If a system rewards greed, people will be greedy. If an authority protects a boss from accountability, that boss will eventually become a tyrant. I’ve learned to stop asking "Who is to blame?" and start asking "What does the structure reward?" If you want better behavior, you don't lecture the fish. You fix the water. You change the incentives. You move the power from the office at the top to the floor where the work actually happens.
 
 ### The Diagnostic, Not the Excuse
 
@@ -46,7 +46,7 @@ People are fluid. They take the shape of the containers we put them in. To under
 
 Power is a mechanical force, not a moral one. It’s the ability to act without asking for permission. Most of the time, power is invisible. It's built into the "default settings" of our lives.
 
-My rule is simple: Authority is a guest that must justify its stay. If a hierarchy cannot prove it is necessary for the safety and benefit of the people, it should be dissolved. We don't need "good leaders"; we need accountable systems. A structure is only as good as its ability to stop the person in charge the moment they go wrong. If there is no "kill switch" for authority, then the system is a trap waiting to be sprung.
+My rule is simple: Authority is a guest that must justify its stay. If a authority cannot prove it is necessary for the safety and benefit of the people, it should be dissolved. We don't need "good leaders"; we need accountable systems. A structure is only as good as its ability to stop the person in charge the moment they go wrong. If there is no "kill switch" for authority, then the system is a trap waiting to be sprung.
 
 ### The Architecture of the Default
 
@@ -100,7 +100,7 @@ Charity is a handout from a high place. It's vertical and fragile. Mutual Aid is
 
 ### Constructive Dissent
 
-Silence in the face of a bad direction is a vote for that direction. I have a responsibility to create friction when the community drifts toward "unjustified" hierarchy. Compliance for the sake of peace is a slow-motion death for a free society. If I see the engine failing, I have an obligation to call it out, regardless of the social cost.
+Silence in the face of a bad direction is a vote for that direction. I have a responsibility to create friction when the community drifts toward "unjustified" authority. Compliance for the sake of peace is a slow-motion death for a free society. If I see the engine failing, I have an obligation to call it out, regardless of the social cost.
 
 #### Some Actionable Items
 
