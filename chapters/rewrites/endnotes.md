@@ -54,6 +54,17 @@ Mutual aid is horizontal. It operates on the premise that roles are reversible. 
 
 The actionable items at the end of the chapter are deliberately small and local. Mutual aid does not require a political conversion. It requires a decision to be useful to the people near you.
 
+**Further Study and Labels**
+
+In the Chapter 9 v2 rewrite, labels are used as directional pointers for study, not identity declarations. The closest traditions are Social Ecology, Communalism, Libertarian Socialism, and elements of Anarcho-Syndicalist and Distributist thought.
+
+If you want deeper context on those labels:
+
+- Murray Bookchin: Social Ecology, Libertarian Municipalism, and communal governance.
+- Elinor Ostrom: practical governance of shared resources without centralized command-and-control.
+- The Meidner Plan: transitional models toward worker-owned social funds.
+- Restorative Justice literature: moving from punitive logic toward repair and accountability.
+
 ---
 
 ## Sources and Suggested Reading

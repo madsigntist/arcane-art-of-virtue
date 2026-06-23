@@ -145,6 +145,21 @@
       ],
     },
     {
+      title: "The Commons and the Community (v2)",
+      path: "chapters/rewrites/chapter-09-the-commons-and-the-community-v2.md",
+      section: "Part III \u2014 Living It",
+      sectionKey: "part-3",
+      keywords: [
+        "community",
+        "commons",
+        "class struggle",
+        "political philosophy",
+        "synthesis",
+        "actionable",
+        "v2",
+      ],
+    },
+    {
       title: "Living With This",
       path: "chapters/rewrites/chapter-10-living-with-this.md",
       section: "Part III \u2014 Living It",
